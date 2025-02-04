@@ -11,6 +11,10 @@ Dự án này được thiết kế để điều khiển tốc độ vòng quay
 - **Điều khiển Phản hồi**: Hệ thống điều chỉnh đầu ra PWM để giảm thiểu sai số giữa RPM hiện tại và RPM mong muốn.
 - **Hiển thị RPM**: RPM hiện tại được hiển thị trên màn hình 7-segment 3 chữ số.
 
+### Demo
+
+![Demo](Image/Demo.gif)
+
 ### Các thành phần sử dụng:
 - **Vi điều khiển**: 8051 (REG51.H)
 - **Điều khiển PWM**: Sử dụng để điều chỉnh tốc độ động cơ.
